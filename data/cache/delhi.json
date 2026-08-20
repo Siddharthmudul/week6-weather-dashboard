@@ -1,0 +1,72 @@
+{
+    "timestamp": 1787252669.453674,
+    "city": "delhi",
+    "current": {
+        "city": "Delhi",
+        "country": "IN",
+        "updated": "2026-08-21 00:30:19",
+        "temperature": 30.96,
+        "feels_like": 37.96,
+        "condition": "Broken Clouds",
+        "emoji": "\u2601\ufe0f",
+        "humidity": 79,
+        "wind_speed": 1.54,
+        "wind_direction": "S",
+        "pressure": 1003,
+        "visibility": 10.0,
+        "sunrise": "05:53",
+        "sunset": "18:55"
+    },
+    "forecast": [
+        {
+            "date": "2026-08-21",
+            "day": "Fri 21 Aug",
+            "temperature": 30.72,
+            "min": 27.29,
+            "max": 39.55,
+            "humidity": 75,
+            "condition": "Light Rain",
+            "emoji": "\ud83c\udf27\ufe0f"
+        },
+        {
+            "date": "2026-08-22",
+            "day": "Sat 22 Aug",
+            "temperature": 31.85,
+            "min": 28.7,
+            "max": 39.7,
+            "humidity": 55,
+            "condition": "Scattered Clouds",
+            "emoji": "\u2601\ufe0f"
+        },
+        {
+            "date": "2026-08-23",
+            "day": "Sun 23 Aug",
+            "temperature": 33.05,
+            "min": 32.04,
+            "max": 39.88,
+            "humidity": 52,
+            "condition": "Light Rain",
+            "emoji": "\ud83c\udf27\ufe0f"
+        },
+        {
+            "date": "2026-08-24",
+            "day": "Mon 24 Aug",
+            "temperature": 31.94,
+            "min": 31.35,
+            "max": 39.29,
+            "humidity": 59,
+            "condition": "Overcast Clouds",
+            "emoji": "\u2601\ufe0f"
+        },
+        {
+            "date": "2026-08-25",
+            "day": "Tue 25 Aug",
+            "temperature": 34.32,
+            "min": 33.81,
+            "max": 41.74,
+            "humidity": 50,
+            "condition": "Overcast Clouds",
+            "emoji": "\u2601\ufe0f"
+        }
+    ]
+}
